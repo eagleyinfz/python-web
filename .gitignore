@@ -1,0 +1,8 @@
+.venv
+.vscode
+.pytest_cache
+report
+.coverage
+xunit-reports
+coverage-reports
+__pycache__
